@@ -1,0 +1,100 @@
+*{
+    margin: 0%;
+    padding: 0;
+    text-decoration: none;
+    background-color: #171717 ;
+    
+    color:rgb(147, 143, 143);
+  
+
+   
+}
+
+
+.navbar{
+    
+    padding-top: 50px;
+    
+}
+
+.navbar a:hover {
+  color: #f9f9f8;
+
+}
+
+#logo{
+    margin-left: 300px;
+    margin-right: 575px;
+    font-size: 50px;
+    padding-top: 40px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.other{
+    margin-right: 30px;
+    font-size: 28px;
+    font-family: sans-serif;
+}
+
+
+h1{
+    margin-left: 300px;
+    font-size: 130px;
+    margin-top: 80px;
+    color:#f9f9f8;
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+
+#title{
+    color: #f9f9f8;
+}
+
+
+p{
+    padding-left: 300px;
+    font-size: 30px;
+    padding-bottom: 80px;
+}
+
+hr {
+  margin-top: 20px;      /* Space above the line */
+  margin-bottom: 20px;   /* Space below the line */
+  border: 0;             /* Removes default border */
+  border-top: 1px solid #ccc; /* Creates a clean divider line */
+}
+
+
+
+
+.content{
+    padding-left: 300px;
+    padding-right: 300px;
+    font-size: 32px;
+  
+    
+}
+
+
+#title{
+    margin-right: 133px;
+   
+}
+
+h3{
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    padding:80px;
+    padding-bottom: 120px;
+}
+
+
+span:hover{
+  color: #f9f9f8;
+
+}
